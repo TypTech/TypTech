@@ -34,8 +34,8 @@
 <br> 
 <a href="https://links.typtech.de"><p align="center">links.typtech.de</p></a>
 <br>
-<p align="center">Mein Discord</p>
-<img alt="Discord" src="https://img.shields.io/discord/1224421383166230630?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue">
+<p align="center" style="font-size: 3em; font-weight: bold;" >Mein Discord</p>
+<a href=""><img alt="Discord" src="https://img.shields.io/discord/1224421383166230630?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue"></a>
 <br>
 
 <div align="center">
