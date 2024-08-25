@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 - Ich arbeite gerade an: Innovate3D-Labs<br>📖 - Ich lerne gerade C++<br>🤝 - Ich arbeite zusammen mit EinPommes<br>💬 - Frag mich, was du über Innovate3D-Labs wissen möchtest<br>⚡ - Fun Fact: Früher habe ich im Windows-Editor programmiert
+🔭 - Ich arbeite gerade an: Innovate3D-Labs<br>📖 - Ich lerne gerade C++<br>🤝 - Ich arbeite zusammen mit EinPommes, Innovate3D-Labs<br>💬 - Frag mich, was du über Innovate3D-Labs wissen möchtest<br>⚡ - Fun Fact: Früher habe ich im Windows-Editor programmiert
 
 
 ## 🌐 Socials:
