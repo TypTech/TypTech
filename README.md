@@ -31,7 +31,7 @@
 
 <br>
 <h1 style="font-size: 3em; font-weight: bold;">Mein Social Media</h1>
-https://github.com/TypTech?tab=overview&from=2024-08-01&to=2024-08-25
+[![Discord](https://img.shields.io/discord/1224421383166230630?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue)](discord.typtech.de)
 <br>
 
 <div align="center">
