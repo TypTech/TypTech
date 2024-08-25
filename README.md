@@ -17,6 +17,11 @@ Projekt: Innovate3D-Labs
 Betriebssysteme: Debian, Ubuntu, Kali, Parrot OS, Windows 10/11
 Sprachen: Deutsch, Englisch
 
+<div style="border: 2px solid #ddd; border-radius: 5px; padding: 10px; margin: 10px 0;">
+  <h2 style="margin-top: 0; color: #333;">Mein Titel</h2>
+  <p>Hier ist der Text innerhalb des Kastens. Du kannst hier alle Informationen hinzufügen, die du möchtest.</p>
+</div>
+
 
 <img align="right" src="img/" alt="">
 
