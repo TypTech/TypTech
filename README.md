@@ -30,8 +30,12 @@
 </div>
 
 <br>
-<h1 style="font-size: 3em; font-weight: bold;">Mein Social Media</h1>
-![Discord](https://img.shields.io/discord/1224421383166230630?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue)
+<h1 align="center" style="font-size: 3em; font-weight: bold;">Mein Social Media</h1>
+<br> 
+<a href="https://links.typtech.de"><p align="center">links.typtech.de</p></a>
+<br>
+<p align="center">Mein Discord</p>
+<img alt="Discord" src="https://img.shields.io/discord/1224421383166230630?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue">
 <br>
 
 <div align="center">
