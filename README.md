@@ -10,14 +10,14 @@
 </div>
 <br>
 
-    Name: Thomas/Tom <br>
-    Wohnort: Bayern, Deutschland 🥨🍺 <br>
-    Programmierung: PHP, CSS, HTML, Python <br>
-    Projekt: Innovate3D-Labs, InnovateOS <br>
-    Betriebssysteme: Debian, Ubuntu, Kali, Parrot OS, Windows 10/11 <br>
+    Name: Thomas/Tom
+    Wohnort: Bayern, Deutschland 🥨🍺
+    Programmierung: PHP, CSS, HTML, Python
+    Projekt: Innovate3D-Labs, InnovateOS 
+    Betriebssysteme: Debian, Ubuntu, Kali, Parrot OS, Windows 10/11 
     Sprachen: Deutsch, Englisch
 
-<img align="right" src="img/" alt="">
+<img align="right" src="img/over-me.png" alt="">
 
 
 <br>
