@@ -10,6 +10,8 @@
 </div>
 <br>
 
+<h1 align="center">Über Mich:</h1>
+
     Name: Thomas/Tom
     Wohnort: Bayern, Deutschland 🥨🍺
     Programmierung: PHP, CSS, HTML, Python
@@ -17,7 +19,7 @@
     Betriebssysteme: Debian, Ubuntu, Kali, Parrot OS, Windows 10/11 
     Sprachen: Deutsch, Englisch
 
-<img align="right" src="img/over-me.png" alt="">
+<img src="img/over-me.png" width="300" align="right" />
 
 
 <br>
