@@ -1,4 +1,15 @@
-## Hi there 👋
+<style>
+    .title, .subtitle {
+        display: flex;
+        justify-content: center;
+        align-self: center;
+    }
+</style>
+
+<div class="title-div">
+    <h1 class="title">TypTech</h1>
+    <p class="subtitle">typtech.de</p>
+</div>
 
 <!--
 **TypTech/TypTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
