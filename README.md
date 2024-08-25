@@ -19,9 +19,6 @@
     Betriebssysteme: Debian, Ubuntu, Kali, Parrot OS, Windows 10/11 
     Sprachen: Deutsch, Englisch
 
-<img src="img/over-me.png" width="300" align="right" />
-
-
 <br>
 
 <div align="center">
@@ -33,12 +30,14 @@
 </div>
 
 <br>
+<h1 style="font-size: 3em; font-weight: bold;">Mein Social Media</h1>
+https://github.com/TypTech?tab=overview&from=2024-08-01&to=2024-08-25
+<br>
 
 <div align="center">
 <h2 id="innovate3d-labs">Innovate3D-Labs</h2>
 <p>Hier sind die Details zu meinem Projekt Innovate3D-Labs...</p>
 </div>
-
 <!--
 **TypTech/TypTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
