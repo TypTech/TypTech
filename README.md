@@ -34,13 +34,18 @@
 <br> 
 <a href="https://links.typtech.de"><p align="center">links.typtech.de</p></a>
 <br>
-<p align="center" style="font-size: 3em; font-weight: bold;" >Mein Discord</p>
-<a href=""><img alt="Discord" src="https://img.shields.io/discord/1224421383166230630?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue"></a>
+<h1 align="center" style="font-size: 3em; font-weight: bold;" >Mein Discord</h1>
+<a href="https://discord.typtech.de"><img alt="Discord" src="https://img.shields.io/discord/1224421383166230630?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue"></a>
 <br>
 
 <div align="center">
 <h2 id="innovate3d-labs">Innovate3D-Labs</h2>
 <p>Hier sind die Details zu meinem Projekt Innovate3D-Labs...</p>
+</div>
+
+<div>
+    <h1>Meine Stats</h1>
+    [![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=typtech)](https://github.com/typtech/github-readme-stats)
 </div>
 <!--
 **TypTech/TypTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
