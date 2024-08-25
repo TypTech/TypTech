@@ -1,6 +1,8 @@
 <div align="center">
     <h1>Typtech</h1>
-    <p>typtech.de</p>
+    <a href="https://typtech.de" style="border: 2px solid black; border-radius: 50%; width: 100px; height: 100px;"></a><p>typtech.de</p></a>
+    <img src="img/typtech.png" alt="">
+
 </div>
 
 <div style="border: 1px solid black; padding: 10px; float: left; width: 45%;">
@@ -11,6 +13,8 @@
     Betriebssysteme: Debian, Ubuntu, Kali, Parrot OS, Windows 10/11<br>
     Sprachen: Deutsch, Englisch
 </div>
+
+
 
 
 <h2 id="innovate3d-labs">Innovate3D-Labs</h2>
