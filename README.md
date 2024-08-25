@@ -3,14 +3,14 @@
     <p>typtech.de</p>
 </div>
 
-
+<div style="border: 1px solid black; padding: 10px; float: left; width: 45%;">
     Name: Thomas/Tom<br>
     Wohnort: Bayern, Deutschland 🥨🍺<br>
     Programmierung: PHP, CSS, HTML, Python<br>
     <a href="#innovate3d-labs">Projekt: Innovate3D-Labs</a><br>
     Betriebssysteme: Debian, Ubuntu, Kali, Parrot OS, Windows 10/11<br>
     Sprachen: Deutsch, Englisch
-
+</div>
 
 
 <h2 id="innovate3d-labs">Innovate3D-Labs</h2>
