@@ -45,7 +45,18 @@
 
 <div>
     <h1>Meine Stats</h1>
-    [![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=typtech)](https://github.com/typtech/github-readme-stats)
+    <br>
+    <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=typtech&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=typtech&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=typtech&show_icons=true" />
+      </picture>
 </div>
 <!--
 **TypTech/TypTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
