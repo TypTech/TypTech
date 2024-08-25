@@ -9,14 +9,15 @@
 <img style="border: 2px solid black; border-radius: 50%; width: 100px; height: 100px;" src="img/typtech.png" alt="typtech.png">
 </div>
 <br>
-<div style="border: 1px solid black; padding: 10px; float: left; width: 45%;">
-    Name: Thomas/Tom<br>
-    Wohnort: Bayern, Deutschland 🥨🍺<br>
-    Programmierung: PHP, CSS, HTML, Python<br>
-    <a href="#innovate3d-labs">Projekt: Innovate3D-Labs</a><br>
-    Betriebssysteme: Debian, Ubuntu, Kali, Parrot OS, Windows 10/11<br>
-    Sprachen: Deutsch, Englisch
-</div>
+
+Name: Thomas/Tom
+Wohnort: Bayern, Deutschland 🥨🍺
+Programmierung: PHP, CSS, HTML, Python
+Projekt: Innovate3D-Labs
+Betriebssysteme: Debian, Ubuntu, Kali, Parrot OS, Windows 10/11
+Sprachen: Deutsch, Englisch
+<img align="right" src="img/" alt="">
+
 
 <br>
 
