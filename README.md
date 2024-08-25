@@ -1,10 +1,14 @@
 <div align="center">
-    <h1>Typtech</h1>
-    <a href="https://typtech.de" style="border: 2px solid black; border-radius: 50%; width: 100px; height: 100px;"></a><p>typtech.de</p></a>
-    <img src="img/typtech.png" alt="">
-
+    <h1 style="font-size: 3em; font-weight: bold;">Typtech</h1>
+    <a href="https://typtech.de">
+        <p style="font-size: 1.5em; font-weight: bold;">typtech.de</p>
+    </a>
 </div>
-
+<br>
+<div align="center">
+<img style="border: 2px solid black; border-radius: 50%; width: 100px; height: 100px;" src="img/typtech.png" alt="typtech.png">
+</div>
+<br>
 <div style="border: 1px solid black; padding: 10px; float: left; width: 45%;">
     Name: Thomas/Tom<br>
     Wohnort: Bayern, Deutschland 🥨🍺<br>
@@ -14,11 +18,13 @@
     Sprachen: Deutsch, Englisch
 </div>
 
+<br>
+<br>
 
-
-
+<div align="center">
 <h2 id="innovate3d-labs">Innovate3D-Labs</h2>
 <p>Hier sind die Details zu meinem Projekt Innovate3D-Labs...</p>
+</div>
 
 <!--
 **TypTech/TypTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
