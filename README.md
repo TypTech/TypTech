@@ -25,6 +25,7 @@
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/typtech)
 
+
 ### 💸 Crypto Donations
 
 - **Bitcoin (BTC):** `bc1qkrwqjlz507ds9eyq3rpl7cf23cyx56x6qd862q`  
