@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
-
-
 # 💫 About Me:
 🏠 - Company: Innovate3D-Labs<br>🔭 - Project: (Look up my Repos)<br>📚 - Learning: C++ (one line of code at a time!)<br>🤝 - Collaborating with: EinPommes & the Innovate3D-Labs team<br>🎧 - Currently vibing to: BoyWithUke, Melay<br>⚡ - Fun Fact: One day in the future... I’ll say I started coding in Windows Notepad 😄
 
@@ -49,6 +46,6 @@
 
 *Every contribution helps fuel more awesome projects 🚀*
   
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
