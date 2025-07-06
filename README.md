@@ -6,12 +6,12 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kGZKnEPptW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TypTech) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27010475) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@TypTech) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TypTech) 
 
 ## 🌐 Operating Systems:
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint%20(Daily%20Driver)-80%25-8DC73A?style=flat&logo=linux-mint&logoColor=white) 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-60%25-5C7FEE?style=flat&logo=kali-linux&logoColor=white) 
-![Debian](https://img.shields.io/badge/Debian-60%25-A80030?style=flat&logo=debian&logoColor=white) 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-40%25-1793D1?style=flat&logo=arch-linux&logoColor=white) 
-![Windows 11](https://img.shields.io/badge/Windows%2011-60%25-0078D4?style=flat&logo=windows&logoColor=white) 
-![Windows 10](https://img.shields.io/badge/Windows%2010-70%25-0078D4?style=flat&logo=windows&logoColor=white) 
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint%20(Daily%20Driver)-80%25-8DC73A?style=flat&logo=linux-mint&logoColor=white) <br>
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-60%25-5C7FEE?style=flat&logo=kali-linux&logoColor=white)  <br>
+![Debian](https://img.shields.io/badge/Debian-60%25-A80030?style=flat&logo=debian&logoColor=white)  <br>
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-40%25-1793D1?style=flat&logo=arch-linux&logoColor=white)  <br>
+![Windows 11](https://img.shields.io/badge/Windows%2011-60%25-0078D4?style=flat&logo=windows&logoColor=white)  <br>
+![Windows 10](https://img.shields.io/badge/Windows%2010-70%25-0078D4?style=flat&logo=windows&logoColor=white)  <br>
 
 
 # 💻 Tech Stack:
