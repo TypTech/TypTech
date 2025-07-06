@@ -45,7 +45,8 @@
 - **Litecoin (LTC):** `ltc1qdgepjh3jymcsnxhezvefvv7admt0k0zqshetmh`  
 
 *Every contribution helps fuel more awesome projects 🚀*
-  
+
+# and pleas
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
